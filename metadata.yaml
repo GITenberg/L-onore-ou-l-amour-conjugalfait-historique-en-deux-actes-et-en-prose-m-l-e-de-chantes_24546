@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jean-Nicolas_Bouilly
     - http://fr.wikipedia.org/wiki/Jean-Nicolas_Bouilly
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24546#L-onore-ou-l-amour-conjugalfait-historique-en-deux-actes-et-en-prose-m-l-e-de-chantes
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2008-02-08'
 gutenberg_type: Text

@@ -1,0 +1,36 @@
+_repo: L-onore-ou-l-amour-conjugalfait-historique-en-deux-actes-et-en-prose-m-l-e-de-chantes_24546
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bouilly, Jean Nicolas
+    aliases:
+    - Bouilly, Nicolas de
+    - Bouilly, J. N. (Jean Nicolas)
+    - Bouilly, Jean-Nicolas
+    birthdate: 1763
+    deathdate: 1842
+    gutenberg_agent_id: '4280'
+    url: http://www.gutenberg.org/2009/agents/4280
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jean-Nicolas_Bouilly
+    - http://fr.wikipedia.org/wiki/Jean-Nicolas_Bouilly
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2008-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24546'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama -- 18th century'
+- !lcc 'PQ'
+title: 'Léonore, ou l''amour conjugal
+
+  fait historique en deux actes et en prose mêlée de chantes'
+url: http://www.gutenberg.org/ebooks/24546
